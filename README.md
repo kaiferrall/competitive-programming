@@ -1,17 +1,5 @@
 <h1>Codeforces Problem Set</h1>
 
-<table>
-	<tr>
-		<td>:white_check_mark: Completed</td>
-	</tr>
-	<tr>
-		<td>:large_blue_circle: In progress</td>
-	</tr>
-	<tr>
-		<td>:red_circle: Wrong</td>
-	</tr>
-</table>
-
 <h3>Solved Problems</h3>
 <table>
 	<tr>
