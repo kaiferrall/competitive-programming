@@ -1,7 +1,9 @@
-<h1>Codeforces completed problem set</h1>
+<h1>Codeforces Problem Set</h1>
 
-<h4>Problem statuses</h4>
 <table>
+	<tr>
+		<p>Problem statuses</p>
+	</tr>
 	<tr>
 		<td>:white_check_mark: Completed</td>
 	</tr>
@@ -14,7 +16,6 @@
 </table>
 
 <h3>Solved Problems</h3>
-<hr />
 <table>
 	<tr>
 		<th>Number (#)</th>
