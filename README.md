@@ -2,9 +2,6 @@
 
 <table>
 	<tr>
-		<p>Problem statuses</p>
-	</tr>
-	<tr>
 		<td>:white_check_mark: Completed</td>
 	</tr>
 	<tr>
