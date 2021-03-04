@@ -14,7 +14,7 @@
 </table>
 
 <h3>Solved Problems</h3>
----
+<hr />
 <table>
 	<tr>
 		<th>Number (#)</th>
