@@ -2,8 +2,14 @@
 <hr />
 
 <h3>Solved Problems</h3>
-<ul>
-	<li>977A - Wrong Subtraction</li>
-	<li>486A - Calculating Function</li>
-	<li>580A - Kefa and First Steps</li>
-</ul>
+<table>
+	<tr>
+		<th>Number (#)</th>
+        <th>Name</th>
+        <th>Difficulty (#)</th>
+		<th>Status</th>
+	</tr>
+	<tr>
+		<td></td>
+	</tr>
+</table>
