@@ -1,14 +1,15 @@
 <h1>Codeforces completed problem set</h1>
 
+<h4>Problem statuses</h4>
 <table>
 	<tr>
-		<td>:white_check_mark: => Completed</td>
+		<td>:white_check_mark: Completed</td>
 	</tr>
 	<tr>
-		<td>:large_blue_circle: => In progress</td>
+		<td>:large_blue_circle: In progress</td>
 	</tr>
 	<tr>
-		<td>:red_circle: => Wrong</td>
+		<td>:red_circle: Wrong</td>
 	</tr>
 </table>
 
